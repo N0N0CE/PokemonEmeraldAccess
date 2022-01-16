@@ -1,2 +1,2 @@
 # PokemonEmeraldAccess
-Pokemon Emerald Access project
+Github repository for my Pokemon Emerald Access project
