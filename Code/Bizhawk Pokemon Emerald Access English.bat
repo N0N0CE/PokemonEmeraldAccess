@@ -1,0 +1,2 @@
+start "NVDA Controller" ".\Lua\GBA\Pokemon Emerald Access\Bizhawk Pokemon Access Gen3 sound controller\Bizhawk Pokemon Access Gen3 sound controller.exe"
+start .\EmuHawk.exe --socket_ip=127.0.0.1 --socket_port=12345 --lua=".\Lua\GBA\Pokemon Emerald Access\pkmgen3.lua" "Pokemon---Emerald-Version-(U).zip"
